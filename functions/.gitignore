@@ -1,0 +1,27 @@
+# Android Studio Files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+/build
+/app/build
+/captures
+/local.properties
+.idea/
+.gradle/
+*.jar
+*.map
+*.jks
+*.keystore
+*.log
+.cxx/
+*.hprof
+
+# Firebase Sensitive Files
+# CRITICAL: Never commit the google-services.json file
+google-services.json
+
+# Firebase CLI config files
+.firebaserc
+firebase.json
