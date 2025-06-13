@@ -1,7 +1,4 @@
 # Android Community Hub
-
-![App Demo](app-demo.gif)
-
 ## 📖 Overview
 
 **Android Community Hub** is a native Android application developed as the final project for a Software Engineering course. It serves as a comprehensive management tool for residential communities, designed to streamline communication, enhance transparency, and centralize administrative tasks.
@@ -53,4 +50,4 @@ This project addresses common neighborhood challenges such as disorganized decis
 4.  **Build and run** the app from Android Studio.
 
 ---
-
+![App Demo](app-demo.gif)
